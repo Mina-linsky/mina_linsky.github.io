@@ -5,8 +5,13 @@ body
     background-color: #1e1e2e;
     margin: 0rem;
     overflow: hidden;
+    text-align: center;
 }
 
+h1
+{
+    color: #cdd6f4';
+}
 #image-track > .image {
     width: 40vmin;
     height: 56vmin;
