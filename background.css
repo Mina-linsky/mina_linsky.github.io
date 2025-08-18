@@ -7,8 +7,13 @@ body
     overflow: hidden;
     text-align: center;
     color: #cdd6f4';
+    
 }
 
+h1
+{
+    color:white
+}
 #image-track {
     display: flex;
     gap: 5vmin;
