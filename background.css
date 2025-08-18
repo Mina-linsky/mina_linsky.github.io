@@ -10,11 +10,6 @@ body
     
 }
 
-header h1
-{
-    color:white
-}
-
 #image-track {
     display: flex;
     gap: 5vmin;
