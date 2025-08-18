@@ -1,4 +1,3 @@
 # mina_linsky.github.io
 
-this is a readme,makkau
-i need to comment #lame
+testing to see it if got published
