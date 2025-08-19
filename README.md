@@ -1,3 +1,7 @@
 # mina_linsky.github.io
 
-testing to see it if got published
+Welcome to Mina's Github page
+Use the following link to access my site:
+https://mina-linsky.github.io/mina_linsky.github.io/
+
+Hope you have a good time 
