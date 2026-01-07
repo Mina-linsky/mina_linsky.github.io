@@ -13,7 +13,6 @@ body
 
 h1{
     
-
   font-family: "Roboto", sans-serif;
   font-optical-sizing: auto;
   font-weight: 100;
@@ -74,3 +73,7 @@ h1{
   float: right;
 }
 
+.profile{
+   width: 60vmin;
+   height: 56vmin;
+}
