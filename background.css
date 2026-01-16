@@ -1,15 +1,4 @@
-/* body
-{
-    height: 100vh; 
-    width: 100vw;
-    background-color: #1e1e2e;
-    margin: 0rem;
-    overflow: hidden;
-    text-align: center;
-    color: #cdd6f4';
-    
-    
-} */
+
  body {
     min-height: 100vh;
     width: 100vw;
@@ -29,7 +18,6 @@ h1{
   font-variation-settings:
     "wdth" 100;
 
-
 }
 
 #image-track {
@@ -40,11 +28,12 @@ h1{
     top: 50%;
     transform: translate(0%, -50%);
     user-select: none;
+    margin-top: 40px;
 }
 
 #image-track > .image {
-    width: 60vmin;
-    height: 56vmin;
+    width: 50vmin;
+    height: 46vmin;
     object-fit: cover;
     object-position: 100% center;
 }
